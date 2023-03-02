@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+<Dial>
+    <Sip>
+        sip:SIP22021676194516850@phone.siprtc.io
+    </Sip>
+    <Sip>
+        sip:Sip1676182123333@phone.siprtc.io
+    </Sip>
+    <Sip>
+        sip:IVR1677779459475@phone.siprtc.io
+    </Sip>
+</Dial>
+<Say voice="woman" language="en-US">Welcome! into SIPRTC</Say>
+</Response>
