@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Dial>
+    <Number>919899250384</Number>
+    <Number>919950555711</Number>
+    <Number>919899250384</Number>
+  </Dial>
+<Say voice="woman" language="fr-FR">Chapeau!</Say>
+</Response>
