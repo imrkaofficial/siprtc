@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-  <Dial>
-    <Number>919899250384</Number>
+  <Dial timeout="10" record="true">
     <Number>919950555711</Number>
     <Number>919899250384</Number>
   </Dial>
