@@ -1,0 +1,5 @@
+<Response>
+  <Speak>Welcome to SIPRTC!</Speak>
+  <Play>https://s3.amazonaws.com/plivocloud/Trumpet.mp3</Play>
+  <Speak>Thanks for calling us.</Speak>
+</Response>
