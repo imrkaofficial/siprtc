@@ -11,5 +11,5 @@
         sip:IVR1677779459475@phone.siprtc.io
     </Sip>
 </Dial>
-<Say voice="woman" language="en-US">Welcome! into SIPRTC</Say>
+<Say voice="woman" language="en-US">Welcome into SIPRTC! Today i can't help you. Sorry for it.</Say>
 </Response>
