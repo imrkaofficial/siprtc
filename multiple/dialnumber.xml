@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Dial timeout="10" record="true">
+    <Number>919950555711</Number>
+    <Number>919899250384</Number>
+  </Dial>
+<Say voice="man" language="en-IN">Welcome to SIPRTC! I am a bot, How may i help you today?</Say>
+</Response>
