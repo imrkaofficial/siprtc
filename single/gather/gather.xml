@@ -1,9 +1,9 @@
 <Response>
-    <Gather actionOnEmptyResult="true" action="https://en1m5xdmfoty8.x.pipedream.net" input="speech dtmf" finishOnKey="#" timeout="5">
+    <Gather actionOnEmptyResult="true" action="https://en1m5xdmfoty8.x.pipedream.net" input="speech dtmf" numDigits="12" finishOnKey="#" timeout="5">
         <Say voice="woman" language="en-AU" loop="5">
-            Please enter your account number,
+            Please enter your 12 digit account number,
             followed by the pound sign.
         </Say>
     </Gather>
-    <Say>Not get valid inputs. You have crossed maximum limits. Thank you!</Say>
+    <Say>We did not received valid inputs. You have crossed maximum limits. Thank you!</Say>
 </Response>
