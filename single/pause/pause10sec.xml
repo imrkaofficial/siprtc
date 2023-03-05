@@ -1,0 +1,5 @@
+<Response>
+    <Say voice="woman" language="en-AU">Welcomme to our customer care, we will pause you for 10 seconds. Your Time start now</Say>
+    <Pause length="5"/>
+    <Say>Thanks for being pause. Your pause time is end. We have just paused you for 10 seconds.</Say>
+</Response>
