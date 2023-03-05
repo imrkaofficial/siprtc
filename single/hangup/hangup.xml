@@ -1,4 +1,0 @@
-a<Response>
-    <Say loop="0">Our working hours is 9am to 8pm. Thank you gor choosing us. Call will be hangup after 10 sec.</Say>
-    <Hangup schedule="10" reason="rejected"/>
-</Response>
