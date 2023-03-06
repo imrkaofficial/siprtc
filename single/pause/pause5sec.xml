@@ -1,5 +1,5 @@
 <Response>
-    <Say voice="woman" language="en-AU" loop="2">Welcomme to our customer care, we will pause you for 5 seconds. Your Time start now</Say>
-    <Pause lengthinteger="15"/>
-    <Say>Thanks for being pause. Your pause time is end. We have just paused you for 5 seconds.</Say>
+    <Say voice="woman" language="en-AU" loop="2">Welcomme to our customer care, we will pause you for 15 seconds. Your Time start now</Say>
+    <Pause length="15"/>
+    <Say>Thanks for being pause. Your pause time is end. We have just paused you for 15 seconds.</Say>
 </Response>
