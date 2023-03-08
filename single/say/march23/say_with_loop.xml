@@ -1,0 +1,4 @@
+<Response>
+  <Say voice="man" language="en-US" loop="2">Hello, Today is holoday, please contact another working days Monday to friday.</Say>
+  <Hangup/>
+</Response>
