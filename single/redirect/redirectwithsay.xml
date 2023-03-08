@@ -1,0 +1,5 @@
+<Response>
+  <Say voice="woman" language="fr-FR">Welcome to SIPRTC!</Say>
+  <Say voice="woman" language="fr-FR">Thanks for calling us, we redirecting to call our Tiniyo Customer Care application.</Say>
+  <Redirect method="POST">https://siprtcivr.onrender.com/ivr/tiniyo</Redirect>
+</Response>
