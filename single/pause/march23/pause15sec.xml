@@ -1,0 +1,5 @@
+<Response>
+    <Say>I will pause 15 seconds starting now!</Say>
+    <Pause length="15"/>
+    <Say>I just paused 15 seconds</Say>
+</Response>
