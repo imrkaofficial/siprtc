@@ -1,0 +1,9 @@
+<Response>
+    <Gather action="https://eo53uyn5c41bah0.m.pipedream.net" method="GET">
+        <Say>
+            Please enter your account number,
+            followed by the pound sign
+        </Say>
+    </Gather>
+    <Say>We didn't receive any input. Goodbye!</Say>
+</Response>
