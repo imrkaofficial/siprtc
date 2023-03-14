@@ -1,0 +1,12 @@
+<Response>
+    <Say>
+        Please leave a message at the beep. 
+        Press the star key when finished. 
+    </Say>
+    <Record 
+        action="https://eo53uyn5c41bah0.m.pipedream.net"
+        method="GET" 
+        maxLength="20"
+        finishOnKey="*"/>
+    <Say>I did not receive a recording</Say>
+</Response>
