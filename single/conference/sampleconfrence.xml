@@ -1,5 +1,0 @@
-<Response>
-  <Dial>
-    <Conference muted="true" startConferenceOnEnter="true" beep="onEnter">SIPRTC Room 23</Conference>
-  </Dial>
-</Response>
