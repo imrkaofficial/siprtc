@@ -16,8 +16,8 @@
   </Dial>
   <Say language="en" 
        voice="woman" loop="2">
-    Hi, we are facing high call volume. We will take your call in a few minutes.
-    Our executing are busy on another call. Please wait! or call again some after time.
+    Hello, welcome to conference, we will start conference in few minutes we are waiting some participants.
+    Please wait for 30 seconds.
   </Say>
   <Pause length="2"/>
 </Response>
