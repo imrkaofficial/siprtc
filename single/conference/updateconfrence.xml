@@ -1,0 +1,23 @@
+<Response>
+  <Dial action="https://eor9509dfzascl0.m.pipedream.net" 
+        timeLimit="60" 
+        hangupOnStar="true"
+        >
+    <Conference statusCallbackEvent="start join" 
+                statusCallback="https://eojiobqsjzbgh3o.m.pipedream.net" 
+                waitMethod="GET" 
+                waitUrl="https://raw.githubusercontent.com/RajatRTC/siprtc/main/single/conference/waiturl.xml"
+                muted="false" 
+                startConferenceOnEnter="true" 
+                beep="onEnter"
+                >
+      SIPRTC-CALLHIPPO-CONFERENCEROOM-MARCH23
+    </Conference>
+  </Dial>
+  <Say language="en" 
+       voice="woman" loop="2">
+    Hi, we are facing high call volume. We will take your call in a few minutes.
+    Our executing are busy on another call. Please wait! or call again some after time.
+  </Say>
+  <Pause length="2"/>
+</Response>
