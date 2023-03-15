@@ -1,6 +1,6 @@
 <Response>
   <Dial>
-    <Conference muted="false">SIPRTC Room 23</Conference>
+    <Conference muted="false" startConferenceOnEnter="true" beep="onEnter>SIPRTC Room 23</Conference>
      <Number>
             919950555711
         </Number>
