@@ -1,0 +1,28 @@
+<Response>
+<Say language="en" voice="woman">
+  Hi, we are facing high call volume. We will take your call in a few minutes.
+  Our executing are busy on another call. Please wait! or call again some after time.
+  </Say>
+<Pause length="2"/>
+<Say language="en" voice="man">
+  Hi, we are facing high call volume. We will take your call in a few minutes.
+  Our executing are busy on another call. Please wait! or call again some after time.
+  </Say>
+<Pause length="2"/>
+<Say language="en" voice="woman">
+  Hi, we are facing high call volume. We will take your call in a few minutes.
+  Our executing are busy on another call. Please wait! or call again some after time.
+  </Say>
+<Pause length="2"/>
+<Say language="en" voice="man">
+  Hi, we are facing high call volume. We will take your call in a few minutes.
+  Our executing are busy on another call. Please wait! or call again some after time.
+  </Say>
+<Pause length="2"/>
+<Say language="en" voice="woman">
+  Hi, we are facing high call volume. We will take your call in a few minutes.
+  Our executing are busy on another call. Please wait! or call again some after time.
+  </Say>
+<Pause length="2"/>
+<Say language="en" voice="woman">Goodbye</Say>
+</Response>
