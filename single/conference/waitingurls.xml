@@ -25,5 +25,5 @@
   </Say>
 <Pause length="2"/>
 <Say language="en-AU" voice="woman">Goodbye</Say>
-<Hangup />
+<Hangup/>
 </Response>
