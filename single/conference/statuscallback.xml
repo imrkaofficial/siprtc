@@ -1,0 +1,5 @@
+<Response>
+  <Dial>
+    <Conference muted="false" startConferenceOnEnter="true" beep="onEnter" statusCallback="https://eonyda325bltgt9.m.pipedream.net/">SIPRTC Room N23</Conference>
+  </Dial>
+</Response>
