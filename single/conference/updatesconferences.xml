@@ -6,7 +6,7 @@
     <Conference statusCallbackEvent="start end join leave mute hold modify speaker announcement" 
                 statusCallback="https://eojiobqsjzbgh3o.m.pipedream.net" 
                 waitMethod="GET" 
-                waitUrl="https://raw.githubusercontent.com/RajatRTC/siprtc/main/single/conference/waiturls.xml"
+                waitUrl="https://raw.githubusercontent.com/RajatRTC/siprtc/main/single/conference/waitingurls.xml"
                 muted="false" 
                 startConferenceOnEnter="true" 
                 beep="onEnter"
