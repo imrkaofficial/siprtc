@@ -14,10 +14,4 @@
       SIPRTC-CALLHIPPO-CONFERENCEROOM-MARCH23
     </Conference>
   </Dial>
-  <Say language="en" 
-       voice="woman" loop="2">
-    Hello, welcome to conference, we will start conference in few minutes we are waiting some participants.
-    Please wait for 30 seconds.
-  </Say>
-  <Pause length="2"/>
 </Response>
