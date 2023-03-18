@@ -12,6 +12,6 @@
 		<Sip statusCallbackEvent="initiated ringing answered completed" 
 		statusCallback="https://enb7gmwgeqt0l.x.pipedream.net"
 		statusCallbackMethod="POST">
-		sip:vib1679149700835@phone.vibconnect.io?X-Ph-From=919899250384&amp;X-Ph-To=919950555711&amp;X-Ph-fromTransferNumber=919899250384&amp;X-Ph-toTransferNumber=919950555711&amp;X-Ph-Transferid=0&amp;X-Ph-Calltransfer=true&amp;X-Ph-maincall=true&amp;X-Ph-Networkstrength=undefined&amp;X-Ph-Fromnumber=919899250384&amp;X-Ph-recordcontrol=true&amp;X-Ph-recordingStatus=true&amp;X-Ph-recordingPlayPause=true&amp;X-Ph-postCallSurvey=false</Sip>
+		sip:vib1679149700835@phone.vibconnect.io?X-Ph-To=919950555711&amp;X-Ph-Calltransfer=true&amp;X-Ph-maincall=true;X-Ph-recordcontrol=true&amp;X-Ph-recordingStatus=true&amp;X-Ph-recordingPlayPause=true&amp;X-Ph-postCallSurvey=false</Sip>
 	</Dial>
 </Response>
