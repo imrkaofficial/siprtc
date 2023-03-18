@@ -1,4 +1,4 @@
 <Response>
-  <Pause length="150"/>
+  <Pause length="40"/>
   <Hangup/>
 </Response>
