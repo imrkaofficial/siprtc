@@ -6,7 +6,7 @@
 	timeout="15" 
 	record="do-not-record" 
 	recordingTrack="both" 
-	recordingStatusCallback="https://dialerbeta.callhippo.com/api/v2/twilioConferenceRecording/cce36611-565a-4df2-89a4-5683bd5c0e95" 
+	recordingStatusCallback="https://enb7gmwgeqt0l.x.pipedream.net" 
 	recordingStatusCallbackMethod="POST" 
 	recordingStatusCallbackEvent="in-progress completed">
 		<Sip statusCallbackEvent="initiated ringing answered completed" 
