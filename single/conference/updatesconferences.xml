@@ -14,4 +14,6 @@
       SIPRTC-CALLHIPPO-CONFERENCEROOM-MARCH23
     </Conference>
   </Dial>
+  <Pause length="150"/>
+  <Hangup/>
 </Response>
