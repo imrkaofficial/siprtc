@@ -1,5 +1,5 @@
 <Response>
-  <Dial action="https://eor9509dfzascl0.m.pipedream.net" 
+  <Dial action="https://raw.githubusercontent.com/RajatRTC/siprtc/main/single/conference/conferenceafter.xml" 
         timeLimit="60" 
         hangupOnStar="true"
         >
