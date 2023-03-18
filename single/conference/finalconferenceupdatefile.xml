@@ -1,0 +1,18 @@
+<Response>
+  <Dial action="https://raw.githubusercontent.com/RajatRTC/siprtc/main/single/conference/conferencehangup.xml"
+        method="POST" 
+        timeLimit="60" 
+        hangupOnStar="true"
+        >
+    <Conference statusCallbackEvent="start end join leave mute hold modify speaker announcement" 
+                statusCallback="https://eojiobqsjzbgh3o.m.pipedream.net" 
+                waitMethod="GET" 
+                waitUrl="https://raw.githubusercontent.com/RajatRTC/siprtc/main/single/conference/waitingurls.xml"
+                muted="false" 
+                startConferenceOnEnter="true" 
+                beep="onEnter"
+                >
+      SIPRTC-CALLHIPPO-CONFERENCEROOM-MARCH23
+    </Conference>
+  </Dial>
+</Response>
