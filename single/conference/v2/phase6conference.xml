@@ -1,5 +1,5 @@
 <Response>
-  <Dial hangupOnStar="true" action="https://raw.githubusercontent.com/RajatRTC/siprtc/main/single/conference/v2/hangupv2xml">
+  <Dial hangupOnStar="true" action="https://raw.githubusercontent.com/RajatRTC/siprtc/main/single/conference/v2/hangupv2.xml">
     <Conference
         startConferenceOnEnter="true"
         endConferenceOnExit="true"
