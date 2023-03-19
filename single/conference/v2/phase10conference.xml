@@ -11,5 +11,4 @@
         New-Callhippo-ConferenceRoom
     </Conference>
   </Dial>
-  <Hangup/>
 </Response>
