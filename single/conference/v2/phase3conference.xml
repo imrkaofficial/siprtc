@@ -1,0 +1,15 @@
+<Response>
+  <Dial hangupOnStar="true">
+    <Conference
+        startConferenceOnEnter="true"
+        endConferenceOnExit="true"
+        statusCallbackEvent="start end join leave mute hold modify speaker announcement"
+        statusCallback="https://eojiobqsjzbgh3o.m.pipedream.net"
+        waitUrl="https://raw.githubusercontent.com/RajatRTC/siprtc/main/single/conference/waitingurls.xml"
+        waitMethod="GET"
+        beep="false">
+        New-Callhippo-ConferenceRoom
+    </Conference>
+  </Dial>
+  <Hangup/>
+</Response>
