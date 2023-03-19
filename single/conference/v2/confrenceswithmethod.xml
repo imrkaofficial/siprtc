@@ -1,5 +1,5 @@
 <Response>
-  <Dial action="https://raw.githubusercontent.com/RajatRTC/siprtc/main/single/conference/v2/hangupv2xml" method="POST" hangupOnStar="true" timeLimit="90"
+  <Dial action="https://entblqf0e19w9.x.pipedream.net/" method="POST" hangupOnStar="true" timeLimit="90"
         >
     <Conference statusCallbackEvent="start end join leave mute hold modify speaker announcement" 
                 statusCallback="https://eojiobqsjzbgh3o.m.pipedream.net" 
