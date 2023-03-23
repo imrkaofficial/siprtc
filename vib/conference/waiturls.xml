@@ -1,5 +1,5 @@
 <Response>
-<Say language="en-AU" voice="woman">
+<Say language="en-US" voice="woman">
   Hi, we are facing high call volume. We will take your call in a few minutes.
   Our executing are busy on another call. Please wait! or call again some after time.
   </Say>
@@ -9,7 +9,7 @@
   Our executing are busy on another call. Please wait! or call again some after time.
   </Say>
 <Pause length="2"/>
-<Say language="en-AU" voice="woman">
+<Say language="en-US" voice="woman">
   Hi, we are facing high call volume. We will take your call in a few minutes.
   Our executing are busy on another call. Please wait! or call again some after time.
   </Say>
@@ -19,11 +19,11 @@
   Our executing are busy on another call. Please wait! or call again some after time.
   </Say>
 <Pause length="2"/>
-<Say language="en-AU" voice="woman">
+<Say language="en-US" voice="woman">
   Hi, we are facing high call volume. We will take your call in a few minutes.
   Our executing are busy on another call. Please wait! or call again some after time.
   </Say>
 <Pause length="2"/>
-<Say language="en-AU" voice="woman">Goodbye</Say>
+<Say language="en-US" voice="woman">Goodbye</Say>
 <Hangup/>
 </Response>
