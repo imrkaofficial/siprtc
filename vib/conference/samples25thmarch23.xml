@@ -1,5 +1,8 @@
 <Response>
   <Dial action="https://en4x3m1ws3u8l.x.pipedream.net/"
+        recordingStatusCallbackEvent="in-progress completed absent"
+        record="record-from-ringing-dual"
+        recordingStatusCallback="https://en4x3m1ws3u8l.x.pipedream.net/"
         timeLimit="60" 
         hangupOnStar="true"
         >
