@@ -1,5 +1,8 @@
 <Response>
-    <Dial action="https://en1m5xdmfoty8.x.pipedream.net/" method="GET">
+    <Dial action="https://en1m5xdmfoty8.x.pipedream.net/" 
+          method="POST" 
+          timeLimit="60" 
+          hangupOnStar="true">
         <Number>
             919950555711
         </Number>
