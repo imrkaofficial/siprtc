@@ -1,5 +1,5 @@
 <Response>
-    <Dial action="https://en1m5xdmfoty8.x.pipedream.net/" method="GET">
+    <Dial action="https://en1m5xdmfoty8.x.pipedream.net/" method="POST">
         919950555711
     </Dial>
     <Say>I am busy in meeting, call me after 7pm.</Say>
