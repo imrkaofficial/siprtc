@@ -1,5 +1,5 @@
 <Response>
-  <Dial action="https://enn3oecm7arkq.x.pipedream.net" timeLimit="30" hangupOnStar="true">
+  <Dial action="https://enn3oecm7arkq.x.pipedream.net" method="POST" timeLimit="30" hangupOnStar="true">
     <Conference statusCallbackEvent="start end join leave mute hold modify speaker announcement"
 		startConferenceOnEnter="true" 
 		endConferenceOnExit="true"
