@@ -1,0 +1,24 @@
+<Response>
+  <Dial action="https://enn3oecm7arkq.x.pipedream.net" timeLimit="30" hangupOnStar="true">
+    <Conference statusCallbackEvent="start end join leave mute hold modify speaker announcement"
+		startConferenceOnEnter="true" 
+		endConferenceOnExit="true"
+		statusCallback="https://enu6ccws22azc.x.pipedream.net/"
+		waitMethod="POST"
+		waitUrl="https://raw.githubusercontent.com/RajatRTC/siprtc/main/single/conference/waitingurls.xml"
+		beep="true"
+		muted="false"
+		maxParticipants="5"
+		>callhippo-siprtc-voicemail</Conference>
+  </Dial>
+  <Play>https://s3.amazonaws.com/plivocloud/Trumpet.mp3</Play>
+  <Pause length="2"/>
+  <Say>Please leave a message after the tone.</Say>
+  <Record timeout="185" 
+	action="https://enn3oecm7arkq.x.pipedream.net" 
+	method="POST" 
+	finishOnKey="*" 
+	playBeep="true" 
+	maxLength="180" 
+	recordingStatusCallbackEvent="in-progress completed absent"/>
+</Response>
