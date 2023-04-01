@@ -1,0 +1,12 @@
+<Response>
+  <Dial action="https://enw7c9dnjlfz.x.pipedream.net"
+    timeLimit="60" hangupOnStar="true">
+    <Conference statusCallbackEvent="start end join leave mute hold modify speaker announcement"
+      statusCallback="https://enw7c9dnjlfz.x.pipedream.net" waitMethod="GET"
+      waitUrl="https://siprtcivr.onrender.com/ivr/tiniyo" muted="false" startConferenceOnEnter="true" beep="onEnter">
+      SIPRTC-CALLHIPPO-CONFERENCEROOM-V2-MARCH23
+    </Conference>
+  </Dial>
+  <Say language="en" voice="woman">Hi, we are facing high call volume. We will take your call in a few minutes.</Say>
+  <Pause length="2"/>
+</Response>
