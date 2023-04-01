@@ -1,0 +1,11 @@
+<Response>
+    <Dial callerId="919899250384" answerOnBridge="true"
+        action="https://raw.githubusercontent.com/RajatRTC/siprtc/main/single/conference/conferencehangup.xml" timeLimit="3600" timeout="20"
+        record="do-not-record" recordingTrack="both" recordingStatusCallback="https://enu6ccws22azc.x.pipedream.net/"
+        recordingStatusCallbackMethod="POST" recordingStatusCallbackEvent="in-progress absent completed">
+        <Sip statusCallbackEvent="initiated ringing answered completed"
+            statusCallback="https://enu6ccws22azc.x.pipedream.net/" statusCallbackMethod="POST">
+            sip:SIP1680315485582@phone.siprtc.io?X-Ph-From=919899250384&amp;X-Ph-To=United%20States&amp;X-Ph-fromTransferNumber=919899250384&amp;X-Ph-toTransferNumber=919950555711&amp;X-Ph-Transferid=0&amp;X-Ph-Callhold=true&amp;X-Ph-Calltransfer=true&amp;X-Ph-maincall=true&amp;X-Ph-Fromnumber=919899250384&amp;X-Ph-recordcontrol=false&amp;X-Ph-recordingStatus=false&amp;X-Ph-recordingPlayPause=false&amp;X-Ph-postCallSurvey=false&amp;X-Ph-recordingPermission=undefined&amp;X-Ph-IntegrationName=&amp;X-Ph-Lastcallcalltype=Incoming&amp;X-Ph-Tonumber=+919950555711
+        </Sip>
+    </Dial>
+</Response>
