@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Say>Hello and welcome to our conference call!</Say>
+  <Play>https://s3.amazonaws.com/plivocloud/Trumpet.mp3</Play>
+  <Dial timeLimit="60" hangupOnStar="true">
+    <Conference waitUrl="https://raw.githubusercontent.com/RajatRTC/siprtc/main/single/conference/waitingurls.xml" waitMethod="GET" startConferenceOnEnter="true"
+            endConferenceOnExit="true" statusCallback="https://enw7c9dnjlfz.x.pipedream.net"
+            statusCallbackEvent="start end join leave mute hold" statusCallbackMethod="POST">ch-Conference-Room-take10</Conference>
+  </Dial>
+  <Play>https://s3.amazonaws.com/plivocloud/Trumpet.mp3</Play>
+  <Say>thanks for join conference, now conference call is end. And give a feedback after a beep.</Say>
+  <Record action="https://raw.githubusercontent.com/RajatRTC/siprtc/main/ch/marchissues/issue5/recordcallback.xml" method="POST" finishOnKey="*" timeout="185" maxLength="180" recordingStatusCallback="https://en02cs7q6yzte8.x.pipedream.net/" recordingStatusCallbackEvent="in-progress completed absent"/>
+</Response>
