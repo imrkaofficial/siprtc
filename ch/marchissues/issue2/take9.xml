@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Say>Hello and welcome to our conference call!</Say>
+  <Play>https://s3.amazonaws.com/plivocloud/Trumpet.mp3</Play>
+  <Dial callerId="+1234567890">
+    <Conference waitUrl="https://raw.githubusercontent.com/RajatRTC/siprtc/main/vib/conference/waiturls.xml">ch-Conference-Room-take9</Conference>
+  </Dial>
+</Response>
