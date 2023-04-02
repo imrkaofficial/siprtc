@@ -1,0 +1,11 @@
+<Response>
+    <Dial action="https://raw.githubusercontent.com/RajatRTC/siprtc/main/single/conference/conferencehangup.xml"
+        method="GET" timeLimit="60" hangupOnStar="true">
+        <Conference waitUrl="https://siprtcivr.onrender.com/ivr/tiniyo" waitMethod="GET" startConferenceOnEnter="true"
+            endConferenceOnExit="true" statusCallback="https://enw7c9dnjlfz.x.pipedream.net"
+            statusCallbackEvent="start end join leave mute hold" statusCallbackMethod="POST">ch-issue-2</Conference>
+    </Dial>
+    <Say voice="woman">Sorry, nobody is available to take your call right now. Please leave a message after the tone.
+    </Say>
+    <Record maxLength="60" timeout="10" action="https://enw7c9dnjlfz.x.pipedream.net" method="POST" />
+</Response>
