@@ -1,0 +1,8 @@
+<Response>
+  <Dial>
+    <Sip>
+      <Uri>sip:SIP1680315485582@phone.siprtc.io</Uri>
+    </Sip>
+    <Number>919899250384</Number>
+  </Dial>
+</Response>
