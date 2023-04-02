@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Pause length="15"/>
+  <Say>Thanks for your valuable time. Have a great day.</Say>
+  <Pause length="5"/>
+  <Hangup/>
+</Response>
