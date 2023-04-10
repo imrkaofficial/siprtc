@@ -1,3 +1,6 @@
 <Response>
-  <Dial record="true" recordingChannels="dual">919950555711</Dial>
+  <Dial record="true" recordingChannels="dual">
+    <Number>919950555711</Number>
+  </Dial>
+  <Say>Thank you for calling. Your call is now being recorded.</Say>
 </Response>
