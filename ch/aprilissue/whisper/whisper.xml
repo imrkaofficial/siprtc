@@ -1,5 +1,4 @@
 <Response>
-  <Say voice="alice">You are about to be connected to an important call. Please hold for a moment.</Say>
-  <Pause length="3"/>
-  <Say voice="woman">This is a whispered message. Please do not let the other participants hear this message.</Say>
+  <Say voice="alice" language="en">You are about to be connected to an important call. Please hold for a moment.</Say>
+  <Say voice="woman" language="en">This is a whispered message. Please do not let the other participants hear this message.</Say>
 </Response>
