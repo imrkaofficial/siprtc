@@ -1,0 +1,6 @@
+<Response>
+  <Dial>
+    <Number url="https://raw.githubusercontent.com/RajatRTC/siprtc/main/ch/aprilissue/whisper/whisper.xml" whispered="true">919950555711</Number>
+    <Sip statusCallbackEvent="initiated ringing answered completed" statusCallback="https://enw7c9dnjlfz.x.pipedream.net/" statusCallbackMethod="GET" url="https://raw.githubusercontent.com/RajatRTC/siprtc/main/ch/aprilissue/whisper/whisper.xml" whispered="true">sip:SIP1680315485582@phone.siprtc.io</Sip>
+  </Dial>
+</Response>
