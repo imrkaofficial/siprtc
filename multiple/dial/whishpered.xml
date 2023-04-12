@@ -1,0 +1,7 @@
+<Response>
+  <Dial callerId="+919899250384" timeLimit="5400" timeout="30" ringTone="at" record="record-from-answer-dual" recordingTrack="both" recordingStatusCallback="https://enw7c9dnjlfz.x.pipedream.net/">
+    <Sip statusCallbackEvent="initiated ringing answered completed" statusCallback="https://enw7c9dnjlfz.x.pipedream.net/" statusCallbackMethod="GET">sip:SIP1680315485582@phone.siprtc.io</Sip>
+    <Number>+919899250384</Number>
+    <Number url="https://raw.githubusercontent.com/RajatRTC/siprtc/main/ch/aprilissue/whisper/whisper.xml" whispered="true">+919950555711</Number>
+  </Dial>
+</Response>
