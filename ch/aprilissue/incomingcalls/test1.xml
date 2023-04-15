@@ -1,6 +1,0 @@
-<Response>
-  <Dial>
-    <Sip statusCallbackEvent="initiated ringing answered completed" statusCallback="https://enw7c9dnjlfz.x.pipedream.net/" statusCallbackMethod="POST">
-      sip:siprtc1680268707920@phone.af.callcenterafrica.com</Sip>
-    </Dial>
-</Response>
