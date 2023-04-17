@@ -1,5 +1,0 @@
-<Response>
-  <Dial callerId="+919899250384" timeLimit="5400" timeout="30" ringTone="at" record="record-from-answer-dual" recordingTrack="both" recordingStatusCallback="https://enw7c9dnjlfz.x.pipedream.net/">
-    <Sip statusCallbackEvent="initiated ringing answered completed" statusCallback="https://enw7c9dnjlfz.x.pipedream.net/" statusCallbackMethod="POST">sip:SIP22021676194516850@phone.siprtc.io</Sip>
-  </Dial>
-</Response>
