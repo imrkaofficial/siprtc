@@ -6,7 +6,6 @@
                 waitUrl="https://raw.githubusercontent.com/RajatRTC/siprtc/main/single/conference/waitingurls.xml"
                 muted="false" 
                 startConferenceOnEnter="true" 
-                endConferenceOnExit="false"
                 beep="onEnter"
                 >
       SIPRTC-CALLHIPPO-CONFERENCEROOM-MARCH23
