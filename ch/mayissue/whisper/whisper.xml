@@ -1,0 +1,4 @@
+<Response>
+  <Say voice="alice" language="en">Your call is important for us. Please hold for a moment.</Say>
+  <Say voice="woman" language="en">This is a whispered message. Please do not let the other participants hear this message.</Say>
+</Response>
