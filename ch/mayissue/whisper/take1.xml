@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Dial action="https://raw.githubusercontent.com/RajatRTC/siprtc/main/ch/mayissue/whisper/whisper.xml">
+    <Conference muted="false" startConferenceOnEnter="true" endConferenceOnExit="true" waitUrl="http://yourwaiturl.com" coach="true" coachParticipants="caller">
+      myconference
+    </Conference>
+  </Dial>
+</Response>
