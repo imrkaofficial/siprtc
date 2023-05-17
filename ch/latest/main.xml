@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-  <Dial answerOnBridge="true" ringTone="none" callerId="+919899250384" action="" timeLimit="5400" record="record-from-answer-dual" recordingTrack="both" timeout="30">
+  <Dial answerOnBridge="true" ringTone="none" callerId="+919899250384" action="https://raw.githubusercontent.com/RajatRTC/siprtc/main/ch/latest/copies.xml" timeLimit="5400" record="record-from-answer-dual" recordingTrack="both" timeout="30">
     <Number statusCallbackEvent="initiated ringing answered completed" statusCallback="https://enw7c9dnjlfz.x.pipedream.net/" statusCallbackMethod="POST">+919899250384
     </Number>
   </Dial>
