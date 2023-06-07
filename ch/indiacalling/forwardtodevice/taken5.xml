@@ -1,0 +1,5 @@
+<Response>
+	<Dial callerId="+918069496199" answerOnBridge="true" action="https://raw.githubusercontent.com/RajatRTC/siprtc/main/ch/mayissue/whisper/multicall/reasonbusy.xml" timeLimit="3600">
+		<Sip statusCallbackEvent="initiated ringing answered completed" statusCallback="https://enu6ccws22azc.x.pipedream.net/" statusCallbackMethod="POST">sip:siprtc1684757213732@phone.ka.callhippo.com?X-Ph-From=918069496199&amp;X-Ph-To=India&amp;X-Ph-fromTransferNumber=918069496199&amp;X-Ph-toTransferNumber=919899250384&amp;X-Ph-Transferid=0&amp;X-Ph-Callhold=true&amp;X-Ph-Callsid=b38b18b0%679f%4bc4%8a03%9f860f7f8624&amp;X-Ph-Calltransfer=true&amp;X-Ph-maincall=true&amp;X-Ph-Networkstrength=aejzb&amp;X-Ph-Fromnumber=918069496199&amp;X-Ph-recordcontrol=true&amp;X-Ph-recordingStatus=true&amp;X-Ph-recordingPlayPause=true&amp;X-Ph-postCallSurvey=false&amp;X-Ph-ivrStatus=false&amp;X-Ph-ivrEvent=&amp;X-Ph-recordingPermission=undefined&amp;X-Ph-IntegrationName=&amp;X-Ph-Lastcallcreateddate=May%204%2C%202023%2011%3A56%20AM&amp;X-Ph-Lastcallcalltype=Incoming&amp;X-Ph-Lastcalluser=&amp;X-Ph-Lastcallstatus=Missed&amp;X-Ph-Tonumber=+12564089279</Sip>
+	</Dial>
+</Response>
