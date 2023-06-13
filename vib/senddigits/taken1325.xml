@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
+    <Say loop="3">Welcome to Tiniyo Customer Care.</Say>
     <Dial>
-        <Say loop="3">Welcome to Tiniyo Customer Care.</Say>
         <Number sendDigits="wwww1">
             918066080081
         </Number>
