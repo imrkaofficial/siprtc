@@ -2,8 +2,8 @@
 <Response>
     <Say loop="3">Welcome to Tiniyo Customer Care.</Say>
     <Dial>
-        <Number sendDigits="wwww1">
-            918066080081
+        <Number>
+            +918066080081
         </Number>
     </Dial>
 </Response>
