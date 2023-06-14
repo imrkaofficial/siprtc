@@ -1,0 +1,14 @@
+<Response>
+  <Dial callerId="919899250384" timeLimit="14400"
+		timeout="30">
+		<Number sendDigits="wwww2#">918066080081</Number>
+	</Dial>
+  <Dial 
+        action="https://raw.githubusercontent.com/RajatRTC/siprtc/main/single/play/sayloop.xml" 
+        method="GET">
+    <Conference 
+                waitUrl="https://vibtreedan.s3.amazonaws.com/public/2023-06-07T11%3A37%3A15.708Z_kjxihhty52s.mp3" 
+                statusCallback="https://launch-api.vibtree.com/api/webhook/vibconnect/conference" 
+                statusCallbackEvent="start end join leave mute hold">Room_1234</Conference>
+  </Dial>
+</Response>
