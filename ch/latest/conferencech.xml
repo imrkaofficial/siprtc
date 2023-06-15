@@ -1,0 +1,10 @@
+<Response>
+  <Dial 
+        action="https://raw.githubusercontent.com/RajatRTC/siprtc/main/single/play/sayloop.xml" 
+        method="GET">
+    <Conference 
+                waitUrl="https://raw.githubusercontent.com/RajatRTC/siprtc/main/single/play/sayloop.xml" 
+                statusCallback="https://enu6ccws22azc.x.pipedream.net/" 
+                statusCallbackEvent="start end join leave mute hold">Room_1234</Conference>
+  </Dial>
+</Response>
