@@ -3,5 +3,4 @@
 	  <Say loop="3" voice="man" language="en"> We are here to help you</Say>
 	  <Conference statusCallbackEvent="join" statusCallback="https://phone2.callhippo.com/api/v2/queueCallOnCnference/9b34ea8b-42c8-4ce8-a239-12c6c7a88b17" waitMethod="GET" waitUrl="https://phone2.callhippo.com/api/v2/queuemusic/649427c62dc2e4705bfb1fc6/siprtc/62fdda67f082cf1737e5586f/?welcomeMessagePlay=true">9b34ea8b-42c8-4ce8-a239-12c6c7a88b17</Conference>
   </Dial>
-	</Dial>
 </Response>
