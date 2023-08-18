@@ -1,0 +1,5 @@
+<Response>
+	<Dial callerId="+918069496116" action="https://raw.githubusercontent.com/RajatRTC/siprtc/main/ch/mayissue/whisper/multicall/reasonbusy.xml" timeLimit="5400" timeout="30" record="record-from-answer-dual" recordingTrack="both" recordingStatusCallback="https://rbaskets.in/62z8v60" recordingStatusCallbackMethod="POST" recordingStatusCallbackEvent="in-progress completed">
+		<Sip statusCallbackEvent="initiated ringing answered completed" statusCallback="https://rbaskets.in/62z8v60" statusCallbackMethod="POST">sip:siprtc1684757213732@phone.ka.callhippo.com</Sip>
+	</Dial>
+</Response>
