@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+	<Dial action="https://wg8h6r.flow.siprtc.io/dial/8d69698930054d63" callerId="919899250384" timeLimit="14400"
+		timeout="30">
+		<Number>919899250384</Number>
+	</Dial>
+	<Say loop="1">hii, i am from siprtc to assist you. May i know how may i help you?</Say>
+</Response>
