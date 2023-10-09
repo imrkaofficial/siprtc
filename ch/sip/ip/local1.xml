@@ -1,0 +1,5 @@
+<Response>
+	<Dial answerOnBridge="true" ringTone="none" callerId="+12549353664" action="https://dialerbeta.callhippo.com/api/v2/smartaction/twilio" timeLimit="5400"  recordingTrack="both" timeout="30">
+		<Sip statusCallbackEvent="initiated ringing answered completed" statusCallback="https://rbaskets.in/1ebyy8e" statusCallbackMethod="POST">99901918866622267@66.33.147.149</Sip>
+	</Dial>
+</Response>
