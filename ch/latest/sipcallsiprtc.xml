@@ -1,5 +1,5 @@
 <Response>
 	<Dial callerId="+918069098185" answerOnBridge="true" action="https://raw.githubusercontent.com/RajatRTC/demo/main/siprtc/say/take1.xml" timeLimit="5400" timeout="30" ringTone="at" record="do-not-record" recordingTrack="both" recordingStatusCallback="https://rbaskets.in/zpqi1xx">
-		<Sip statusCallbackEvent="initiated ringing answered completed" statusCallback="https://rbaskets.in/zpqi1xx" statusCallbackMethod="POST">sip:SIP1695306394911@phone.ka.callhippo.com</Sip>
+		<Sip statusCallbackEvent="initiated ringing answered completed" statusCallback="https://rbaskets.in/zpqi1xx" statusCallbackMethod="POST">sip:SIP1695306394911@phone.siprtc.io</Sip>
 	</Dial>
 </Response>
