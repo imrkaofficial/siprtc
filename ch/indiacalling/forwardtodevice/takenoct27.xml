@@ -1,0 +1,4 @@
+<Response>
+	<Dial callerId="+918069098171" answerOnBridge="true" action="https://raw.githubusercontent.com/RajatRTC/siprtc/main/ch/mayissue/whisper/multicall/reasonbusy.xml" timeLimit="3600">
+		<Sip statusCallbackEvent="initiated ringing answered completed" statusCallback="https://rbaskets.in/zpqi1xx" statusCallbackMethod="POST">sip:siprtc1696601161627@phone.ka.callhippo.com</Sip>
+</Response>
