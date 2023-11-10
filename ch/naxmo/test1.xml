@@ -1,0 +1,5 @@
+<Sip statusCallbackEvent="initiated ringing answered completed"
+    statusCallback="https://call.callhippo.com/api/v2/twilioCallback/twilio?userId=647dcf8b9191d11d8c1099b7&amp;deviceType=ABTO"
+    statusCallbackMethod="POST" username="7de39aa4" password="5pWaJVUrx8603GeM">
+    sip:15025183498@sip-us-3.vonage.com
+</Sip>
