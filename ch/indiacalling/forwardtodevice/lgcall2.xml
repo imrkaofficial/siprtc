@@ -1,0 +1,5 @@
+<Response>
+	<Dial answerOnBridge="true" ringTone="none" callerId="+12549353664" action="https://raw.githubusercontent.com/RajatRTC/siprtc/main/ch/mayissue/whisper/multicall/reasonbusy.xml" timeLimit="5400" record="record-from-answer-dual" recordingTrack="both" timeout="30" recordingStatusCallback="https://rbaskets.in/b5gpn4x" recordingStatusCallbackMethod="POST" recordingStatusCallbackEvent="in-progress completed">
+		<Sip statusCallbackEvent="initiated ringing answered completed" statusCallback="https://rbaskets.in/b5gpn4x" statusCallbackMethod="POST" username="7de39aa4" password="5pWaJVUrx8603GeM">sip:+18555490540@sip-us-3.vonage.com</Sip>
+	</Dial>
+</Response>
