@@ -1,0 +1,5 @@
+<Response>
+	<Dial answerOnBridge="true" ringTone="none" callerId="+18777190390" action="+18777190390" timeLimit="5400"  recordingTrack="both" timeout="30">
+		<Sip statusCallbackEvent="initiated ringing answered completed" statusCallback="https://rbaskets.in/1ebyy8e" statusCallbackMethod="POST">sip:SIP1695306394911@phone.siprtc.io</Sip>
+	</Dial>
+</Response>
