@@ -1,0 +1,17 @@
+<Response>
+    <Say>
+        Please leave a message at the beep. 
+        Press the star key when finished. 
+    </Say>
+    <Record 
+        action="https://eo53uyn5c41bah0.m.pipedream.net"
+        method="GET" 
+        maxLength="20"
+        finishOnKey="*"
+        recordingStatusCallback="https://rbaskets.in/4jdf1s3"
+        recordingStatusCallbackMethod="POST"
+        recordingStatusCallbackEvent="in-progress completed absent"
+        transcribe="true"
+        transcribeCallback="https://rbaskets.in/4jdf1s3"/>
+    <Say>I did not receive a recording</Say>
+</Response>
