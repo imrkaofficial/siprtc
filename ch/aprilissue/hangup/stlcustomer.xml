@@ -1,0 +1,5 @@
+<Response>
+  <Dial callerId="+919899250384" timeLimit="5400" timeout="30" ringTone="at" record="record-from-answer-dual" recordingTrack="both" recordingStatusCallback="https://enw7c9dnjlfz.x.pipedream.net/" action="https://raw.githubusercontent.com/RajatRTC/siprtc/main/ch/aprilissue/hangup/take1.xml" method="GET">
+    <Number statusCallbackEvent="initiated ringing answered completed" statusCallback="https://enw7c9dnjlfz.x.pipedream.net/" statusCallbackMethod="POST">+18777190390</Number>
+  </Dial>
+</Response>
