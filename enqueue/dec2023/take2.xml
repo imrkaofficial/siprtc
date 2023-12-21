@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Enqueue waitUrl="https://raw.githubusercontent.com/imrkaofficial/siprtc/main/single/play/sayloop.xml" waitUrlMethod="GET">support</Enqueue>
+</Response>
