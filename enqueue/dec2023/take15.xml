@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+   <Say loop="2">Header Take 15 We are connecting with your worker. Please wait for it.</Say>
+   <Enqueue workflowSid="WW21BE863B11344E0E9D73C638D95DC438">
+      <Task>{
+    "workflow_sid": "WW21BE863B11344E0E9D73C638D95DC438",
+    "attributes": "{\"callsid\":\"c696dbae-5312-4019-8d87-d5cab1f1fbc0\",\"channel\":\"voice\",\"from\":\"sip:worker11701870765068@phone.siprtc.io\",\"skill\":\"support\",\"task_queue_sid\":\"WQ01033B66BDA6496E94702825E73CF560\"}",
+    "call_sid": "c696dbae-5312-4019-8d87-d5cab1f1fbc0",
+    "account_sid": "6K3BZNPR9SOTVJF8T1GL",
+    "workflow_friendly_name": "",
+    "age": 30,
+    "assignment_status": "",
+    "task_queue_entered_date": "0001-01-01T00:00:00Z",
+    "priority": 0,
+    "reason": "Test",
+    "task_queue_sid": "",
+    "task_channel_sid": "",
+    "task_channel_unique_name": "",
+    "timeout": 0,
+    "workspace_sid": "",
+    "task_queue_friendly_name": "",
+    "addons": "",
+    "action_url": ""
+}</Task>
+   </Enqueue>
+   <Say loop="2">Footer Take 15 We are connecting with your worker. Please wait for it.</Say>
+</Response>
