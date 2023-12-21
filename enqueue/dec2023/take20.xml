@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+   <Say loop="2">Header Take 20 We are connecting with your worker. Please wait for it.</Say>
+   <Enqueue workflowSid="WW21BE863B11344E0E9D73C638D95DC438">
+      <Task>{"skill":"support"}</Task>
+   </Enqueue>
+   <Say loop="2">Footer Take 20 We are connecting with your worker. Please wait for it.</Say>
+</Response>
