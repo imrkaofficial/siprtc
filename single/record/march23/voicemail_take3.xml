@@ -1,0 +1,9 @@
+<Response>
+    <Say>
+        Please leave a message at the beep. 
+        Press the star key when finished. 
+    </Say>
+    <Record  
+        timeout="10"/>
+    <Say>recording is completered</Say>
+</Response>
