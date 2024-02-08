@@ -5,7 +5,7 @@
     </Say>
     <Record 
         action="https://eo53uyn5c41bah0.m.pipedream.net"
-        method="GET" 
+        method="POST" 
         timeout="10" 
         finishOnKey="*"/>
     <Say>recording is completered</Say>
