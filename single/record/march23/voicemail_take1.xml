@@ -1,0 +1,12 @@
+<Response>
+    <Say>
+        Please leave a message at the beep. 
+        Press the star key when finished. 
+    </Say>
+    <Record 
+        action="https://eo53uyn5c41bah0.m.pipedream.net"
+        method="GET" 
+        timeout="10" 
+        finishOnKey="*"/>
+    <Say>recording is completered</Say>
+</Response>
