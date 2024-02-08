@@ -1,0 +1,11 @@
+<Response>
+    <Say>
+        Please leave a message at the beep. 
+        Press the star key when finished. 
+    </Say>
+    <Record 
+        action="https://raw.githubusercontent.com/imrkaofficial/siprtc/main/single/record/march23/voice_check.xml"
+        method="GET" 
+        timeout="10" 
+        finishOnKey="*"/>
+</Response>
