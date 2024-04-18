@@ -4,8 +4,6 @@
       endConferenceOnExit="true" 
       waitUrl="https://vibtreedan.s3.eu-central-1.amazonaws.com/public/2022-08-21T11%3A53%3A44.570Z_home-ringtone-4438%20%281%29.mp3" 
       statusCallback="https://rbaskets.in/ruo70a2" 
-      statusCallbackEvent="start end join leave mute hold">
-      Room_delay19
-    </Conference>
+      statusCallbackEvent="start end join leave mute hold">Room_delay19</Conference>
   </Dial>
 </Response>
