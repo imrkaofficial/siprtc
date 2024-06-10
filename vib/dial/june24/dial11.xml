@@ -1,0 +1,5 @@
+<Response>
+	<Dial callerId="+918069379021" answerOnBridge="true" action="https://raw.githubusercontent.com/RajatRTC/demo/main/siprtc/say/take1.xml" timeLimit="5400" timeout="30" ringTone="at" record="do-not-record" recordingTrack="both" recordingStatusCallback="https://rbaskets.in/a8fu1ed">
+		<Number statusCallbackEvent="initiated ringing answered completed" statusCallback="https://rbaskets.in/a8fu1ed" statusCallbackMethod="POST">+919899250384</Number>
+	</Dial>
+</Response>
