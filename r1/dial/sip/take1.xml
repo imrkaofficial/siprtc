@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Dial displayname="rajatcheck" callerId="13502000929" timeLimit="14400" timeout="30">
+        <Sip statusCallbackEvent="initiated ringing answered completed" statusCallback="https://rbaskets.in/ruo70a2" statusCallbackMethod="POST">sip:shail1689923395330@phone.r1.scb-global.com</Sip>
+    </Dial>
+</Response>
