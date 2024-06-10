@@ -1,0 +1,5 @@
+<Response>
+	<Dial answerOnBridge="true" displayname="rajatcheck" ringTone="none" callerId="+919899250384" action="https://raw.githubusercontent.com/RajatRTC/demo/main/siprtc/say/take1.xml" timeLimit="5400"  recordingTrack="both" timeout="30">
+		<Sip statusCallbackEvent="initiated ringing answered completed" statusCallback="https://rbaskets.in/ruo70a2" statusCallbackMethod="POST">sip:sip1711342627519@phone.siprtc.io</Sip>
+	</Dial>
+</Response>
