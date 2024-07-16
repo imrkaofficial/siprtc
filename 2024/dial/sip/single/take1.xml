@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+<Dial>
+    <Sip>
+        sip:SIP1680315485582@phone.siprtc.io
+    </Sip>
+</Dial>
+</Response>
