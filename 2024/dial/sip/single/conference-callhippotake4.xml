@@ -1,0 +1,5 @@
+<Response>
+	<Dial action="https://call.callhippo.com/api/v2/conferencequeue/action/siprtc/62fdda67f082cf1737e5586f/66bb046d158174999e23ff0b" timeLimit="300" hangupOnStar="true">
+		<Conference statusCallbackEvent="start join" statusCallback="https://call.callhippo.com/api/v2/queueCallOnCnference/daa6c6e6-c9a6-490f-babd-0ec7200acdb8" waitMethod="GET" waitUrl="https://staging-phone-api.callhippo.com/api/v2/queuemusic/66b99bd21e1bee2fe5fb65c2/siprtc/5fbf93c5eb7e3c45300a9151">549fc1a6-7b53-4ff6-bdc7-cda02a4f55d4</Conference>
+	</Dial>
+</Response>
