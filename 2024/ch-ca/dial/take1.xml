@@ -1,0 +1,5 @@
+<Response>
+	<Dial answerOnBridge="true" ringTone="none" callerId="+13372260440" action="https://call.callhippo.com/api/v2/smartaction/twilio" timeLimit="5400" record="record-from-answer-dual" recordingTrack="both" timeout="30" recordingStatusCallback="https://call.callhippo.com/api/v2/twilioConferenceRecording/6554e307-6a8e-4e8c-a640-487b82cfa62a" recordingStatusCallbackMethod="POST" recordingStatusCallbackEvent="in-progress completed">
+		<Sip statusCallbackEvent="initiated ringing answered completed" statusCallback="https://call.callhippo.com/api/v2/twilioCallback/twilio?userId=64ae896daf860412b2c1eb7c&amp;deviceType=web" statusCallbackMethod="POST" username="callhippo" password="Provider@9033">+919899250384@39707-callhippo.us1.trunks.avoxi.com</Sip>
+	</Dial>
+</Response>
