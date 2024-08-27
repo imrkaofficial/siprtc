@@ -1,0 +1,5 @@
+<Response>
+	<Dial answerOnBridge="true" ringTone="none" callerId="+918069496171" action="https://call.callhippo.com/api/v2/smartaction/twilio" timeLimit="5400" record="record-from-answer-dual" recordingTrack="both" timeout="30" recordingStatusCallback="https://rbaskets.in/lfigt6x" recordingStatusCallbackMethod="POST" recordingStatusCallbackEvent="in-progress completed">
+		<Number statusCallbackEvent="initiated ringing answered completed" statusCallback="https://call.callhippo.com/api/v2/twilioCallback/twilio?userId=5e70673566daa407a8e40a45&amp;deviceType=web" statusCallbackMethod="POST">+919899250384</Number>
+	</Dial>
+</Response>
