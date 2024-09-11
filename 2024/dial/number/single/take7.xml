@@ -1,0 +1,5 @@
+<Response>
+	<Dial answerOnBridge="true" displayname="rajatcheck" ringTone="none" callerId="+63289818450" action="https://raw.githubusercontent.com/RajatRTC/demo/main/siprtc/say/take1.xml" timeLimit="5400"  recordingTrack="both" timeout="30">
+		<Number statusCallbackEvent="initiated ringing answered completed" statusCallback="https://rbaskets.in/cs211hn" statusCallbackMethod="POST">328872019</Number>
+	</Dial>
+</Response>
