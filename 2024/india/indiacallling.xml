@@ -1,0 +1,5 @@
+<Response>
+	<Dial callerId=\"+919899250384\" action=\"https://dev4-phone.callhippo.com/api/v2/blindTransferAction/siprtc/cf5a22fe-f212-4961-8714-edb0c85a1897/Cold?transferUniqId=1729779859511\" method=\"POST\" timeLimit=\"3600\" timeout=\"35\">
+		<Number statusCallbackEvent=\"ringing answered completed\" statusCallback=\"https://dev4-phone.callhippo.com/api/v2/blindTransferOnAnswer/cf5a22fe-f212-4961-8714-edb0c85a1897/Incoming/Cold/cf5a22fe-f212-4961-8714-edb0c85a1897/2ae1658f-d0e5-4d11-b2c8-78779bbe82dd?conferenceName=cf5a22fe-f212-4961-8714-edb0c85a1897&amp;transferUniqId=1729779859511&amp;conferenceFriendlyName=undefined\" statusCallbackMethod=\"POST\">+919950555711</Number>
+	</Dial>
+</Response>
