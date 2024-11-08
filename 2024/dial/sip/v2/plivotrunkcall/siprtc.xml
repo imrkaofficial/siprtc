@@ -1,0 +1,4 @@
+<Response>
+	<Play>https://callhippo-media.s3.amazonaws.com/welcome_message/172959561718466aa1984a86091c60ecd756a.mp3</Play>
+	<Dial callerId="+919922546426" answerOnBridge="true" action="https://phone2.callhippo.com/api/v2/smartaction/siprtc" record="record-from-ringing" />
+</Response>
