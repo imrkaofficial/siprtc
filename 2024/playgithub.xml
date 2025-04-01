@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Play digits="1w2w3w4w5w6w7w8w9w"/>
+  <Pause length="30"/>
+  <Play digits="1w2w3w4w5w6w7w8w9w"/>
+  <Pause length="30"/>
+</Response>
